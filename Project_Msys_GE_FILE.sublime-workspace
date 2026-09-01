@@ -1,0 +1,530 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"pause"
+			],
+			[
+				"git",
+				"github"
+			],
+			[
+				"re",
+				"red"
+			],
+			[
+				"yell",
+				"yellow4"
+			],
+			[
+				"imp",
+				"import"
+			],
+			[
+				"impo",
+				"import"
+			],
+			[
+				"n",
+				"name"
+			],
+			[
+				"ren",
+				"render"
+			],
+			[
+				"st",
+				"stepNumber"
+			],
+			[
+				"ste",
+				"stepNumber"
+			],
+			[
+				"c",
+				"calculateWinner"
+			],
+			[
+				"ge",
+				"getNextSymbol"
+			],
+			[
+				"w",
+				"white3"
+			],
+			[
+				"whi",
+				"white2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"termi",
+				"Preferences: Terminal Settings"
+			],
+			[
+				"open",
+				"Terminal: Open in project folder"
+			],
+			[
+				"suhl",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"TERMI",
+				"Preferences: Terminal Key Bindings"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"scheme",
+				"UI: Select Theme"
+			],
+			[
+				"them",
+				"Monokai Pro: select theme"
+			],
+			[
+				"SELECT THEM",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"menu ",
+				"MarkdownEditing: Unfold All Sections"
+			],
+			[
+				"a",
+				"Arithmetic"
+			],
+			[
+				"ari",
+				"Arithmetic"
+			],
+			[
+				"THEME",
+				"UI: Select Theme"
+			],
+			[
+				"react",
+				"ReactIDE: Switch between component and stylesheet"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: Install PackageLSP",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"Package Control: s",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: IN",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Build: New Build System"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package ",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 184.0,
+		"history":
+		[
+			"@ZIP@INCREMENTALE",
+			"incrementale",
+			"@ZIP@INCREMENTALE",
+			"menu",
+			"main",
+			"menu"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": true
+	},
+	"expanded_folders":
+	[
+		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE"
+	],
+	"file_history":
+	[
+		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE/README_GE_FILE.MD",
+		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS_OGGETTI/MSYS/MDB/MSys_GE_FILE/OBJECT/MODULES/Msys_GEFILE_Mdl02_ESPORTA_OGGETTI.MD",
+		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS_OGGETTI/MSYS/MDB/MSys_GE_FILE/OBJECT/CLASSI/CLASSE_GESTIONE_OGGETTI_DATABASE.MD",
+		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS_OGGETTI/MSYS/MDB/MSys_GE_FILE/README_GE_FILE.MD",
+		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS_OGGETTI/MSYS/MDB/MSys_GE_FILE/README.MD",
+		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS_OGGETTI/MSYS/MDB/MSys_GE_FILE/OBJECT/RUST/help_html/src/main.rs",
+		"/c/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS_OGGETTI/RUST/help_html/src/main.rs",
+		"/c/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS_OGGETTI/RUST/help_html/Cargo.toml",
+		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS_OGGETTI/RUST/help_html/Project_HELP_HTML.sublime-project",
+		"/C/GESTIONI/GESTIONE_LLPP/25_GESTIONE_LLPP/PRES3000_GESTIONE/ARCHIVI_PRES3000/PRES3000_N00_GESTIONE/README.MD",
+		"/C/GESTIONI/GESTIONE_LLPP/25_GESTIONE_LLPP/PRES3000_GESTIONE/ARCHIVI_PRES3000/Project_PRES000_UTILITA.MD",
+		"/C/GESTIONI/GESTIONE_LLPP/25_GESTIONE_LLPP/PRES3000_GESTIONE/ARCHIVI_PRES3000/PRES3000_N01_CALENDARIO/ANALISI_CALDENARIO.md",
+		"/C/CASA/PRES3000_07/CASA_GESTIONE/CASA_SERVIZI/TIM_CASA/00_DOS_APRI_FILE_(Disco+Path+File)_(Parametri_SET).bat",
+		"/C/GESTIONI/GESTIONE_LLPP/25_GESTIONE_LLPP/PRES3000_GESTIONE/ARCHIVI_PRES3000/PRES3000_N01_CALENDARIO/OBJECT_CALENDARIO/CLASSI_FORM/Form_PRES3000_FrmTb01_S01_Calendario.cls",
+		"/C/GESTIONI/GESTIONE_LLPP/25_GESTIONE_LLPP/PRES3000_GESTIONE/ARCHIVI_PRES3000/PRES3000_N00_GESTIONE/OBJECT/MODULI/PRES3000_Frm01_S01_01_Calendario.Md",
+		"/C/GESTIONI/GESTIONE_LLPP/25_GESTIONE_LLPP/PRES3000_GESTIONE/ARCHIVI_PRES3000/PRES3000_N01_CALENDARIO/OBJECT_CALENDARIO/ROUTINE/PRES3000_MdlDF00_ESPORTA_DEFINIZIONI_To_GESTIONE.bas",
+		"/C/GESTIONI/GESTIONE_LLPP/25_GESTIONE_LLPP/PRES3000_GESTIONE/ARCHIVI_PRES3000/PRES3000_N00_GESTIONE/OBJECT/FORMS/PRES3000_Frm01_S01_01_Calendario.md",
+		"/C/GESTIONI/GESTIONE_LLPP/25_GESTIONE_LLPP/PRES3000_GESTIONE/ARCHIVI_PRES3000/PRES3000_N00_GESTIONE/OBJECT/TABLE/PRES3000_Tb01_Calendario.md",
+		"/C/GESTIONI/GESTIONE_LLPP/25_GESTIONE_LLPP/PRES3000_GESTIONE/ARCHIVI_PRES3000/PRES3000_N00_GESTIONE/OBJECT/QUERY/PRES3000_QryTb0101_01_Calendario.md",
+		"/C/GESTIONI/GESTIONE_LLPP/25_GESTIONE_LLPP/PRES3000_GESTIONE/ARCHIVI_PRES3000/PRES3000_N00_GESTIONE/OBJECT/QUERY/PRES3000_QryDF20_01_Help_Calendario.md",
+		"/C/GESTIONI/GESTIONE_LLPP/25_GESTIONE_LLPP/PRES3000_GESTIONE/ARCHIVI_PRES3000/PRES3000_N00_GESTIONE/OBJECT/QUERY/PRES3000_QryTb02_01_CalendarioPianoFerie.md",
+		"/C/GESTIONI/GESTIONE_LLPP/25_GESTIONE_LLPP/PRES3000_GESTIONE/ARCHIVI_PRES3000/PRES3000_N00_GESTIONE/GESTIONE_ANALISI/PRES3000_N00_GESTIONE.md",
+		"/C/GESTIONI/GESTIONE_LLPP/25_GESTIONE_LLPP/PRES3000_GESTIONE/ARCHIVI_PRES3000/PRES3000_N00_GESTIONE/OBJECT/QUERY/PRES3000_QryTb02_01_CalendarioPianoFerie_INSERT_QU",
+		"/C/GESTIONI/GESTIONE_LLPP/25_GESTIONE_LLPP/PRES3000_GESTIONE/ARCHIVI_PRES3000/PRES3000_N00_GESTIONE/OBJECT/TABLE/PRES3000_Tb01_CalendarioPianoFerie.md",
+		"/C/GESTIONI/GESTIONE_LLPP/25_GESTIONE_LLPP/PRES3000_GESTIONE/ARCHIVI_PRES3000/PRES3000_N00_GESTIONE/OBJECT/FORMS/PRES3000_FrmTb02_S01_CalendarioPianoFerie.md",
+		"/C/GESTIONI/GESTIONE_LLPP/25_GESTIONE_LLPP/PRES3000_GESTIONE/ARCHIVI_PRES3000/PRES3000_N00_GESTIONE/OBJECT/PRES3000_Frm01_S01_01_Calendario.Md",
+		"/C/GESTIONI/GESTIONE_LLPP/25_GESTIONE_LLPP/PRES3000_GESTIONE/ARCHIVI_PRES3000/PRES3000_N00_GESTIONE/OBJECT/ROUTINE/Private_Sub_Help_Txt_AfterUpdate.md",
+		"/C/GESTIONI/GESTIONE_LLPP/25_GESTIONE_LLPP/PRES3000_GESTIONE/ARCHIVI_PRES3000/PRES3000_N00_GESTIONE/OBJECT/MODULI/COLLEGA_Mdl01_PRES3000_DF00_TUTTE_LE_DEFINIZIONI.MD",
+		"/C/GESTIONI/GESTIONE_LLPP/25_GESTIONE_LLPP/PRES3000_GESTIONE/ARCHIVI_PRES3000/PRES3000_N00_GESTIONE/OBJECT/Private_Sub_Help_Txt_DblClick.MD",
+		"/C/GESTIONI/GESTIONE_LLPP/25_GESTIONE_LLPP/PRES3000_GESTIONE/ARCHIVI_PRES3000/PRES3000_N00_GESTIONE/OBJECT/COLLEGA_Mdl01_PRES3000_DF00_TUTTE_LE_DEFINIZIONI.MD",
+		"/C/GESTIONI/GESTIONE_LLPP/25_GESTIONE_LLPP/PRES3000_GESTIONE/ARCHIVI_PRES3000/PRES3000_N00_GESTIONE/OBJECT/QUERY/PRES3000_Qry01_01_Calendario.md",
+		"/C/GESTIONI/GESTIONE_LLPP/25_GESTIONE_LLPP/PRES3000_GESTIONE/ARCHIVI_PRES3000/PRES3000_N00_GESTIONE/OBJECT/QUERY/PRES3000_QryDF01_01_CalendarioFestivita.md",
+		"/C/GESTIONI/GESTIONE_LLPP/25_GESTIONE_LLPP/PRES3000_GESTIONE/ARCHIVI_PRES3000/PRES3000_N00_GESTIONE/OBJECT/QUERY/PRES3000_QryDF01_02_GROUP_CalendarioFestivita.md",
+		"/C/GESTIONI/GESTIONE_LLPP/25_GESTIONE_LLPP/PRES3000_GESTIONE/ARCHIVI_PRES3000/PRES3000_N00_GESTIONE/OBJECT/QUERY/PRES3000_QryDF05_01_ORARI.md",
+		"/C/GESTIONI/GESTIONE_LLPP/25_GESTIONE_LLPP/PRES3000_GESTIONE/ARCHIVI_PRES3000/PRES3000_N05_DEFINIZIONI_ORAR_GIORN_TIMB/PRES3000_DEFINIZIONI.MD",
+		"/C/CASA/LINGUAGGI/DOS/DOS_PROGETTI/ZIP_INCREMENTALE/ZIP_RAR_INCREMENTALE.BAT",
+		"/C/Users/walter.rossi/AppData/Roaming/Sublime Text/Packages/Terminality/README.md",
+		"/C/CASA/LINGUAGGI/DOS/COMANDI_DOS/COMANDI_DOS_TUTORIAL.MD",
+		"/C/Users/walter.rossi/AppData/Roaming/Sublime Text/Packages/TerminalinPackages/Default.sublime-keymap",
+		"/C/CASA/LINGUAGGI/DOS/DOS_PROGETTI/TASKILL/TasKill_N51_KILL_SOLO_PROCESSI.bat",
+		"/C/CASA/LINGUAGGI/DOS/DOS_PROGETTI/COPIA/Zip_rar_SALVA_TUTTO_ARCHIVI_Y.bat.BAT",
+		"/C/CASA/LINGUAGGI/DOS/COMANDI_DOS/DOS_ESEMPI_N002_ELENCO_FILE.BAT",
+		"/C/CASA/LINGUAGGI/DOS/Progetti_DOS.sublime-project",
+		"/C/CASA/LINGUAGGI/DOS/UTILITA_FILE.MD",
+		"/C/CASA/LINGUAGGI/DOS/DOS_PROGETTI/BROWSER/Browser.md",
+		"/C/CASA/LINGUAGGI/DOS/GIT_BAT/git_OpenGitHub.bat",
+		"/C/CASA/LINGUAGGI/DOS/DOS_PROGETTI/SPLIT/Split_Dos.md",
+		"/C/CASA/LINGUAGGI/ACCESS/ACCESS_PROGETTI_MDB/ACCESS_PROPRIETA_ESEMPIO_FORMATTA_DATE.MD",
+		"/c/CASA/LINGUAGGI/ACCESS/ACCESS_PROGETTI_MDB/PROPRIETA_ACCESS.md",
+		"/c/CASA/LINGUAGGI/ACCESS/ACCESS_PROGETTI_MDB/TAB_CONTROL/Project_TAB_CONTROLL/TAB_CONTROLL_PagineASchede.md",
+		"/c/CASA/LINGUAGGI/DOS/DOS_PROGETTI/DOS_PROGETTI.MD",
+		"/c/CASA/LINGUAGGI/DOS/COMANDI_DOS/COMANDI_DOS_TUTTI_GLI_ESEMPI.MD",
+		"/c/CASA/LINGUAGGI/DOS/DATE_DOS/DATE_FORMAT_ES_01.MD",
+		"/c/CASA/LINGUAGGI/ZIP/7ZIP/7ZIP_INCREMENTALE.MD",
+		"/c/CASA/LINGUAGGI/ACCESS/ACCESS_PROGETTI_MDB/GUIDA_RIFERIMENTO_MODELLO_OGGETTO_MICROSOFT_SYSTEM.MD",
+		"/c/CASA/LINGUAGGI/ZIP_N71_RAR_INCREMENTALE.BAT",
+		"/c/CASA/LINGUAGGI/ELENCO_CARTELLE_LINGUAGGI.TXT",
+		"/c/CASA/LINGUAGGI/ACCESS/ACCESS_PROGETTI_MDB/TAB_CONTROL/Project_TAB_CONTROLL/TAB_CONTROL.md",
+		"/c/CASA/LINGUAGGI/Zip_N72_ElencoFile.txt",
+		"/c/CASA/LINGUAGGI/Zip_N70_ElencoFile.txt",
+		"/c/CASA/LINGUAGGI/SUBLIMETEXT/ANALISI/SUBLIMETEXT_DOCUMENTAZIONE_UFFICIALE.MD",
+		"/c/CASA/LINGUAGGI/DOS/DOS_PROGETTI/MENU/MENU_SALVATAGGI.MD",
+		"/c/CASA/LINGUAGGI/ACCESS/ACCESS_PROGETTI_MDB/ACCESS_GE_OGGETTI_NEW/GE_OGGETTI_NEW_MDB/GE_OGGETTI_Access_2000_NEW.mdb",
+		"/c/CASA/LINGUAGGI/ACCESS/ACCESS_PROGETTI_MDB/FORM_CARICAMENTO_AUTOMATICO/MDB/FORM_N01_CaricamentoAutomatico.mdb",
+		"/c/CASA/LINGUAGGI/ACCESS/ACCESS_PROGETTI_MDB/GESTIONE_OGGETTI_01/GE_OGGETTI_DB_01.mdb",
+		"/c/CASA/LINGUAGGI/ACCESS/ACCESS_PROGETTI_MDB/TAB_CONTROL/TAB_CONTROLL.mdb",
+		"/c/CASA/LINGUAGGI/ACCESS/ACCESS_PROGETTI_MDB/SERVIZI/MDB/GE_SERVIZI.mdb",
+		"/c/CASA/LINGUAGGI/ACCESS/ACCESS_PROGETTI_MDB/OGGETTO_COMMANDBAR/MDB/Oggetto_CommandBars.mdb",
+		"/c/CASA/LINGUAGGI/ACCESS/ACCESS_PROGETTI_MDB/OGGETTO_COMMANDBAR/MDB/Oggetto_CommandBar.mdb",
+		"/c/CASA/LINGUAGGI/ACCESS/ACCESS_PROGETTI_MDB/MSYS_OGGETTI/MDB/MSYS_N01_OGGETTI.mdb",
+		"/c/CASA/LINGUAGGI/ACCESS/ACCESS_PROGETTI_MDB/GESTIONE_BARRA_MENU/GE_OGGETTI_MENU_COMMAND_BAR.mdb",
+		"/c/CASA/LINGUAGGI/ACCESS/ACCESS_PROGETTI_MDB/ACCESS_GE_OGGETTI_NEW/OGGETTO_COMMANDBAR/MDB/Oggetto_CommandBar.mdb",
+		"/c/CASA/LINGUAGGI/ACCESS/ACCESS_PROGETTI_MDB/ACCESS_GE_OGGETTI_NEW/GE_OGGETTI_NEW_ANALISI/Analisi_Text/GE_OGGETTI_NEW_ANALISI_TEX.tex",
+		"/c/CASA/LINGUAGGI/ACCESS/ACCESS_PROGETTI_MDB/ACCESS_GE_OGGETTI_NEW/GE_OGGETTI_NEW_ANALISI/Analisi_SublimeText/Tabelle/MSys_OGGETTI.txt",
+		"/C/CASA/LINGUAGGI/LINGUAGGI_Project.sublime-project",
+		"/C/CASA/LINGUAGGI/ZIP_RAR_INCREMENTALE.BAT",
+		"/C/CASA/LINGUAGGI/Zip_N70_ElencoFile.txt",
+		"/C/CASA/LINGUAGGI/LINGUAGGI.sublime-project",
+		"/C/CASA/LINGUAGGI/ZIP/7ZIP/7ZIP_INCREMENTALE.MD",
+		"/C/Users/icivi/AppData/Roaming/Sublime Text/Packages/Terminal/Default (Windows).sublime-keymap",
+		"/C/CASA/LINGUAGGI/ZIP/7ZIP/7ZIP.MD",
+		"/C/CASA/LINGUAGGI/ZIP/GIT_BAT/git_PULL.BAT",
+		"/C/CASA/LINGUAGGI/ZIP/ZIP_PROCEDURE/ZIP.MD",
+		"/C/CASA/LINGUAGGI/TROVA_PROGETTI/TROVA_PROGETTI.MD",
+		"/C/CASA/LINGUAGGI/TROVA_PROGETTI/TROVA_PROGETTI.sublime-project",
+		"/c/CASA/LINGUAGGI/POWERSHELL/GUIDA_POWER_SHELL.sublime-project",
+		"/c/CASA/LINGUAGGI/POWERSHELL/GUIDA_POWER_SHELL.MD",
+		"/C/CASA/LINGUAGGI/POWERSHELL/GUIDA_POWER_SHELL.sublime-project",
+		"/C/CASA/LINGUAGGI/POWERSHELL/ProgettoPowerShell.sublime-project",
+		"/c/CASA/LINGUAGGI/DOS/COMANDI_DOS/COMANDI_DOS_TUTTI.md",
+		"/c/CASA/LINGUAGGI/DOS/DOS_PROGETTI/DOS_PROGETTI_BAT/ZIP_INCREMENTALE/Zip_N70_CRIPTA.bat",
+		"/c/CASA/LINGUAGGI/DOS/DOS_PROGETTI/DOS_PROGETTI_BAT/ZIP_INCREMENTALE/Zip_N70_DECODIFICA.bat",
+		"/C/CASA/LINGUAGGI/DOS/DOS_PROGETTI/APRI_FILE/APRI_FILE.md",
+		"/c/CASA/LINGUAGGI/DOS/DOS_PROGETTI/APRI_FILE/COMANDI_DOS_TUTTI.md",
+		"/C/Users/icivi/AppData/Roaming/Sublime Text/Packages/User/untitled.sublime-build",
+		"/c/CASA/LINGUAGGI/DOS/DOS_PROGETTI/DOS_PROGETTI_BAT/ZIP_INCREMENTALE/Zip_N70_ElencoFile.txt",
+		"/C/CASA/LINGUAGGI/DOS/ZIP_INCREMENTALE/Zip_N70_CRIPTA.bat",
+		"/C/CASA/LINGUAGGI/DOS/Progetto_DOS.sublime-project",
+		"/C/CASA/LINGUAGGI/DOS/DOS_PROGETTI/DOS_PROGETTI.MD",
+		"/C/CASA/LINGUAGGI/DOS/DOS_PROGETTI/DOS_PROGETTI_BAT/Zip_N70_ElencoFile.txt",
+		"/C/CASA/LINGUAGGI/DOS/DOS_PROGETTI/DOS_PROGETTI_BAT/ZIP_RAR_INCREMENTALE.BAT",
+		"/C/CASA/CDM/LaQuercia/2022_2023/ZIP_RAR_INCREMENTALE_new.BAT",
+		"/C/CASA/CDM/LaQuercia/2022_2023/ZIP_RAR_INCREMENTALE.BAT",
+		"/C/CASA/LINGUAGGI/HTML/PROGETTI_HTML/REACT_GUIDA_HTML_IT/react-guida-html/tutorial/IL_MIO_TUTORIAL_SUBLIMETEXT.MD",
+		"/C/CASA/LINGUAGGI/HTML/PROGETTI_HTML/REACT_GUIDA_HTML_IT/react-guida-html/tutorial/SUBLIMETEXT_DOCUMENTAZIONE_UFFICIALE.MD",
+		"/C/CASA/LINGUAGGI/HTML/PROGETTI_HTML/REACT_GUIDA_HTML_IT/react-guida-html/tutorial/DOS_GIT_SALVA_TUTTO.BAT",
+		"/C/Users/icivi/AppData/Roaming/Sublime Text/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/icivi/AppData/Roaming/Sublime Text/Packages/Markdown.sublime-package",
+		"/C/Users/icivi/AppData/Roaming/Sublime Text/Installed Packages/MarkdownEditing.sublime-package",
+		"/C/CASA/LINGUAGGI/HTML/PROGETTI_HTML/REACT_GUIDA_HTML_IT/react-guida-html/tutorial/SUBLIMETEXT_DOCUMENTAZIONE_DELLA_COMUNITA.MD",
+		"/C/CASA/LINGUAGGI/HTML/PROGETTI_HTML/REACT_GUIDA_HTML_IT/react-guida-html/tutorial/TUTORIAL_SUBLIMETEXT_DOS_COPIA_IN_GIT.bat",
+		"/C/CASA/LINGUAGGI/HTML/PROGETTI_HTML/REACT_GUIDA_HTML_IT/react-guida-html/tutorial/TUTORIAL_SUBLIMETEXT_DOS_COPY.bat",
+		"/C/CASA/LINGUAGGI/HTML/PROGETTI_HTML/REACT_GUIDA_HTML_IT/react-guida-html/tutorial/GUIDA_POWER_SHELL.MD",
+		"/C/CASA/LINGUAGGI/HTML/PROGETTI_HTML/REACT_GUIDA_HTML_IT/react-guida-html/tutorial/GUIDA_REACT_HTML.md",
+		"/C/CASA/LINGUAGGI/HTML/PROGETTI_HTML/REACT_GUIDA_HTML_IT/react-guida-html/tutorial/GUIDA_YAML.MD",
+		"/C/CASA/LINGUAGGI/HTML/PROGETTI_HTML/REACT_GUIDA_HTML_IT/react-guida-html/tutorial/2023-04-16.md",
+		"/C/CASA/LINGUAGGI/HTML/PROGETTI_HTML/REACT_GUIDA_HTML_IT/react-guida-html/REACT_GUIDA_HTML.sublime-project",
+		"/C/CASA/LINGUAGGI/HTML/PROGETTI_HTML/REACT_GUIDA_HTML_IT/react-guida-html/tutorial/HomePage.md",
+		"/C/Users/icivi/AppData/Roaming/Sublime Text/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/icivi/AppData/Roaming/Sublime Text/Packages/Theme - Monokai+/Monokai+.sublime-theme",
+		"/C/Users/icivi/AppData/Roaming/Sublime Text/Packages/User/Markdown.sublime-settings",
+		"/C/Users/icivi/AppData/Roaming/Sublime Text/Packages/User/MarkdownEditor.sublime-color-scheme",
+		"/C/Users/icivi/AppData/Roaming/Sublime Text/Packages/User/Mariana.sublime-color-scheme",
+		"/C/Users/icivi/AppData/Roaming/Sublime Text/Packages/User/MarkdownEditor-ArcDark.sublime-color-scheme",
+		"/C/Users/icivi/AppData/Roaming/Sublime Text/Packages/User/MarkdownEditor-Dark.sublime-color-scheme",
+		"/C/Users/icivi/AppData/Roaming/Sublime Text/Packages/User/Monokai.sublime-color-scheme",
+		"/C/Users/icivi/AppData/Roaming/Sublime Text/Packages/User/Monokai+.sublime-color-scheme",
+		"/C/Users/icivi/AppData/Roaming/Sublime Text/Packages/User/Terminus.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.4
+	},
+	"find_in_files":
+	{
+		"height": 229.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Msys_ESPORTA_IMPORTA_DB_DEST",
+			"@path@completa+file"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": false,
+		"use_buffer2": true,
+		"use_gitignore": false,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.4
+	},
+	"input":
+	{
+		"height": 83.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 126.400001526
+	},
+	"output.Terminus":
+	{
+		"height": 255.0,
+		"history":
+		[
+		]
+	},
+	"output.diagnostics":
+	{
+		"height": 138.0
+	},
+	"output.find_results":
+	{
+		"height": 301.0,
+		"history":
+		[
+		]
+	},
+	"output.markdown":
+	{
+		"height": 132.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.references":
+	{
+		"height": 323.0
+	},
+	"pinned_build_system": "",
+	"project": "Project_Msys_GE_FILE.sublime-project",
+	"replace":
+	{
+		"height": 65.6
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\CASA\\LINGUAGGI\\SUBLIMETEXT\\SUBLIMETEXT.sublime-project"
+			]
+		],
+		"width": 391.2
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 325.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}

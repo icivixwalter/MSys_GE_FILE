@@ -1,0 +1,32 @@
+@PROGETTO@GE@FILE
+   Note
+      progetto di gestione dei file e delle cartelle con le API
+      WINDOWS
+
+
+PARAMETRI_VBA
+   Note
+      per gestire al meglio vba e Access 2011 ho creato una variabile di sistema che identifica
+      Access 2011 denominata come VARIABILE DI SISTEMA = "ACCESS_2011"
+
+      VARIABILE DI AMBIENTE ACCESS CASA
+         Per casa la path PER L'ESEGUIBILE DI ACCESS E PER LA COSTRUZIONE DELLA VARIABILE DI AMBIENTE è la seguente :
+            variabile denominata: "ACCESS_2011" = C:\Program Files\Microsoft Office\root\Office16\MSACCESS.EXE
+
+      VARIABILE DI AMBIENTE ACCESS UFFICIO
+            variabile denominata: "ACCESS_2011" = C:\Program Files\Microsoft Office\root\Office16\MSACCESS.EXE
+
+
+
+MACRO ESPORTA OGGETTI to 
+   creato la macro esporta oggetti in LLPP_ATTI_GESTIONE.mdb c:\GESTIONI\GESTIONE_LLPP\25_GESTIONE_LLPP\LLPP_ARCHIVI_MDB\LLPP_ATTI_GESTIONE.mdb
+
+   denominata:
+      ESPORTA_Mcr_01_GEFILE_to_LLPP_ATTI_GESTIONE_mdb
+
+RUST DOCUMENTAZIONE HTML
+   Note
+      costruita procedura in Rust che crea una documentazione in html
+      della classe form. Per creare la libreria in html occorre:
+         1) estrarre la classe della form o altra classe i
+         1) estrarre la classe della form o altra classe i
