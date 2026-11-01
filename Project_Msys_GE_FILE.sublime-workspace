@@ -63,6 +63,20 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "ZIP_7ZIP_INCREMENTALE_{CRIPTA+DECODIFICA_INTERNO}.BAT",
+			"file_size": 27222,
+			"file_write_time": 134380283716877814,
+			"settings":
+			{
+				"buffer_size": 26671,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -236,19 +250,20 @@
 	],
 	"file_history":
 	[
+		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE/README_CHATGBT.md",
+		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE/git_STATUS.BAT",
+		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE/git_STATUS+PULL+ADD+COMMIT+PUSH.BAT",
+		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE/git_PULL.BAT",
+		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE/git_OPEN_OVERLEAF.BAT",
+		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE/ZIP_7ZIP_INCREMENTALE_{CRIPTA+DECODIFICA_INTERNO}.BAT",
+		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE/Zip_N70_ElencoFile.txt",
 		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE/OBJECT/CLASSI/CLASSE_clsFileSystem.cls",
 		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE/OBJECT/CLASSI/CLASSE_clsFileSystem_README.MD",
 		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE/ZIP_RAR_INCREMENTALE_2.BAT",
-		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE/README_CHATGBT.md",
 		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE/A.TXT",
 		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE/ZIP_RAR_INCREMENTALE.LOG",
-		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE/Zip_N70_ElencoFile.txt",
 		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE/ZIP_RAR_INCREMENTALE.BAT",
 		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE/git_OpenGitHub.bat",
-		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE/git_OPEN_OVERLEAF.BAT",
-		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE/git_PULL.BAT",
-		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE/git_STATUS+PULL+ADD+COMMIT+PUSH.BAT",
-		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE/git_STATUS.BAT",
 		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE/.gitignore",
 		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE/CHATGBT.MD",
 		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE/README.md",
@@ -362,12 +377,11 @@
 		"/C/Users/icivi/AppData/Roaming/Sublime Text/Packages/Markdown.sublime-package",
 		"/C/Users/icivi/AppData/Roaming/Sublime Text/Installed Packages/MarkdownEditing.sublime-package",
 		"/C/CASA/LINGUAGGI/HTML/PROGETTI_HTML/REACT_GUIDA_HTML_IT/react-guida-html/tutorial/SUBLIMETEXT_DOCUMENTAZIONE_DELLA_COMUNITA.MD",
-		"/C/CASA/LINGUAGGI/HTML/PROGETTI_HTML/REACT_GUIDA_HTML_IT/react-guida-html/tutorial/TUTORIAL_SUBLIMETEXT_DOS_COPIA_IN_GIT.bat",
-		"/C/CASA/LINGUAGGI/HTML/PROGETTI_HTML/REACT_GUIDA_HTML_IT/react-guida-html/tutorial/TUTORIAL_SUBLIMETEXT_DOS_COPY.bat"
+		"/C/CASA/LINGUAGGI/HTML/PROGETTI_HTML/REACT_GUIDA_HTML_IT/react-guida-html/tutorial/TUTORIAL_SUBLIMETEXT_DOS_COPIA_IN_GIT.bat"
 	],
 	"find":
 	{
-		"height": 31.2
+		"height": 44.0
 	},
 	"find_in_files":
 	{
@@ -384,6 +398,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"c:\\CASA\\LINGUAGGI\\ACCESS\\PROGETTI_MDB\\MSYS\\Msys_TB30_UTIL\\",
+			"c:\\CASA\\LINGUAGGI\\ACCESS\\PROGETTI_MDB\\MSYS\\MSys_GE_FILE\\",
+			"_Msys_TB30_UTIL",
+			"c:\\CASA\\LINGUAGGI\\ACCESS\\PROGETTI_MDB\\MSYS\\Msys_TB30_UTIL\\",
 			"CLASSE_clsFileSystem",
 			"_archivi_ACCESS",
 			"c:\\CASA\\LINGUAGGI\\ACCESS\\",
@@ -398,6 +416,10 @@
 		"regex": false,
 		"replace_history":
 		[
+			"c:\\CASA\\LINGUAGGI\\ACCESS\\PROGETTI_MDB\\MSYS\\MSys_GE_FILE\\",
+			"c:\\CASA\\LINGUAGGI\\ACCESS\\PROGETTI_MDB\\MSYS\\Msys_TB30_UTIL\\",
+			"_MSys_GE_FILE",
+			"c:\\CASA\\LINGUAGGI\\ACCESS\\PROGETTI_MDB\\MSYS\\MSys_GE_FILE\\",
 			"_Archivi_Msys_GE_FILE",
 			"c:\\CASA\\LINGUAGGI\\ACCESS\\PROGETTI_MDB\\MSYS\\MSys_GE_FILE\\"
 		],
@@ -414,6 +436,38 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "ZIP_7ZIP_INCREMENTALE_{CRIPTA+DECODIFICA_INTERNO}.BAT",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 26671,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4426,
+								4426
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Batch File/Batch File.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 332.8,
+						"translation.y": 5348.8,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
 			]
 		}
 	],

@@ -1,15 +1,22 @@
 //ATTENZIONE AGLI SPAZI DI FINE RIGA non ci devono essere altrimenti non salva
 //............................................................................
-(
-echo(MDB
-echo(OBJECT
-echo(AA________________________________________________________________________AA.txt
-echo(Project_Msys_GE_FILE.sublime-project
-echo(README_GE_FILE.MD
-echo(Zip_N70_CRIPTA.bat
-echo(Zip_N70_DECODIFICA.bat
-echo(Zip_N70_ElencoFileESCLUSI.txt
-echo(ZIP_RAR_INCREMENTALE.BAT
-echo(ZIP_7ZIP_________________________________________________________________ZZ.txt
-echo(ZZ________________________________________________________________________ZZ.txt
-) > Zip_N70_ElencoFile.txt
+MDB
+OBJECT
+AA________________________________________________________________________AA.txt
+git_COMMIT.BAT
+git_OpenGitHub.bat
+git_OPEN_OVERLEAF.BAT
+git_PULL.BAT
+git_PUSH.BAT
+git_STATUS+PULL+ADD+COMMIT+PUSH.BAT
+git_STATUS.BAT
+Project_MSys_DF01_COMANDI.sublime-project
+Project_MSys_DF01_COMANDI.sublime-workspace
+README_DF01_COMANDI.MD
+ZIP_7ZIP_________________________________________________________________ZZ.txt
+Zip_N70_CRIPTA.bat
+Zip_N70_DECODIFICA.bat
+Zip_N70_ElencoFile.txt
+Zip_N70_ElencoFileESCLUSI.txt
+ZIP_RAR_INCREMENTALE.BAT
+ZZ________________________________________________________________________ZZ.txt
