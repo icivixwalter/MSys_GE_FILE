@@ -1,0 +1,15 @@
+//ATTENZIONE AGLI SPAZI DI FINE RIGA non ci devono essere altrimenti non salva
+//............................................................................
+(
+echo(MDB
+echo(OBJECT
+echo(AA________________________________________________________________________AA.txt
+echo(Project_Msys_GE_FILE.sublime-project
+echo(README_GE_FILE.MD
+echo(Zip_N70_CRIPTA.bat
+echo(Zip_N70_DECODIFICA.bat
+echo(Zip_N70_ElencoFileESCLUSI.txt
+echo(ZIP_RAR_INCREMENTALE.BAT
+echo(ZIP_7ZIP_________________________________________________________________ZZ.txt
+echo(ZZ________________________________________________________________________ZZ.txt
+) > Zip_N70_ElencoFile.txt

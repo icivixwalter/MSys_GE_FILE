@@ -1,7 +1,7 @@
 @REM  cd.. devi posizionarti su git_desktop
 echo off
 cls 
-CD c:\CASA\LINGUAGGI\ACCESS\PROGETTI_MDB\MSYS\MSys_GE_FILE\
+CD c:\CASA\LINGUAGGI\ACCESS\PROGETTI_MDB\MSYS\MSys_GE_FILE\PROGETTI_MDB\MSYS\MSys_GE_FILE\
 dir 
 
 

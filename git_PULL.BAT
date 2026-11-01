@@ -1,5 +1,5 @@
 @REM  cd.. devi posizionarti su git_desktop
-CD c:\CASA\LINGUAGGI\ACCESS\PROGETTI_MDB\MSYS\MSys_GE_FILE\
+CD c:\CASA\LINGUAGGI\ACCESS\PROGETTI_MDB\MSYS\MSys_GE_FILE\PROGETTI_MDB\MSYS\MSys_GE_FILE\
 dir 
 
 @REM  fai un controllo con status, poi aggiungi con add tutto l'albero + il comimit e il push

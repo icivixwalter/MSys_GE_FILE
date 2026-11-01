@@ -230,10 +230,28 @@
 	},
 	"expanded_folders":
 	[
-		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE"
+		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE",
+		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE/OBJECT",
+		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE/OBJECT/CLASSI"
 	],
 	"file_history":
 	[
+		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE/OBJECT/CLASSI/CLASSE_clsFileSystem.cls",
+		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE/OBJECT/CLASSI/CLASSE_clsFileSystem_README.MD",
+		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE/ZIP_RAR_INCREMENTALE_2.BAT",
+		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE/README_CHATGBT.md",
+		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE/A.TXT",
+		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE/ZIP_RAR_INCREMENTALE.LOG",
+		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE/Zip_N70_ElencoFile.txt",
+		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE/ZIP_RAR_INCREMENTALE.BAT",
+		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE/git_OpenGitHub.bat",
+		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE/git_OPEN_OVERLEAF.BAT",
+		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE/git_PULL.BAT",
+		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE/git_STATUS+PULL+ADD+COMMIT+PUSH.BAT",
+		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE/git_STATUS.BAT",
+		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE/.gitignore",
+		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE/CHATGBT.MD",
+		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE/README.md",
 		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_GE_FILE/README_GE_FILE.MD",
 		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS_OGGETTI/MSYS/MDB/MSys_GE_FILE/OBJECT/MODULES/Msys_GEFILE_Mdl02_ESPORTA_OGGETTI.MD",
 		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS_OGGETTI/MSYS/MDB/MSys_GE_FILE/OBJECT/CLASSI/CLASSE_GESTIONE_OGGETTI_DATABASE.MD",
@@ -345,33 +363,19 @@
 		"/C/Users/icivi/AppData/Roaming/Sublime Text/Installed Packages/MarkdownEditing.sublime-package",
 		"/C/CASA/LINGUAGGI/HTML/PROGETTI_HTML/REACT_GUIDA_HTML_IT/react-guida-html/tutorial/SUBLIMETEXT_DOCUMENTAZIONE_DELLA_COMUNITA.MD",
 		"/C/CASA/LINGUAGGI/HTML/PROGETTI_HTML/REACT_GUIDA_HTML_IT/react-guida-html/tutorial/TUTORIAL_SUBLIMETEXT_DOS_COPIA_IN_GIT.bat",
-		"/C/CASA/LINGUAGGI/HTML/PROGETTI_HTML/REACT_GUIDA_HTML_IT/react-guida-html/tutorial/TUTORIAL_SUBLIMETEXT_DOS_COPY.bat",
-		"/C/CASA/LINGUAGGI/HTML/PROGETTI_HTML/REACT_GUIDA_HTML_IT/react-guida-html/tutorial/GUIDA_POWER_SHELL.MD",
-		"/C/CASA/LINGUAGGI/HTML/PROGETTI_HTML/REACT_GUIDA_HTML_IT/react-guida-html/tutorial/GUIDA_REACT_HTML.md",
-		"/C/CASA/LINGUAGGI/HTML/PROGETTI_HTML/REACT_GUIDA_HTML_IT/react-guida-html/tutorial/GUIDA_YAML.MD",
-		"/C/CASA/LINGUAGGI/HTML/PROGETTI_HTML/REACT_GUIDA_HTML_IT/react-guida-html/tutorial/2023-04-16.md",
-		"/C/CASA/LINGUAGGI/HTML/PROGETTI_HTML/REACT_GUIDA_HTML_IT/react-guida-html/REACT_GUIDA_HTML.sublime-project",
-		"/C/CASA/LINGUAGGI/HTML/PROGETTI_HTML/REACT_GUIDA_HTML_IT/react-guida-html/tutorial/HomePage.md",
-		"/C/Users/icivi/AppData/Roaming/Sublime Text/Packages/User/Default (Windows).sublime-keymap",
-		"/C/Users/icivi/AppData/Roaming/Sublime Text/Packages/Theme - Monokai+/Monokai+.sublime-theme",
-		"/C/Users/icivi/AppData/Roaming/Sublime Text/Packages/User/Markdown.sublime-settings",
-		"/C/Users/icivi/AppData/Roaming/Sublime Text/Packages/User/MarkdownEditor.sublime-color-scheme",
-		"/C/Users/icivi/AppData/Roaming/Sublime Text/Packages/User/Mariana.sublime-color-scheme",
-		"/C/Users/icivi/AppData/Roaming/Sublime Text/Packages/User/MarkdownEditor-ArcDark.sublime-color-scheme",
-		"/C/Users/icivi/AppData/Roaming/Sublime Text/Packages/User/MarkdownEditor-Dark.sublime-color-scheme",
-		"/C/Users/icivi/AppData/Roaming/Sublime Text/Packages/User/Monokai.sublime-color-scheme",
-		"/C/Users/icivi/AppData/Roaming/Sublime Text/Packages/User/Monokai+.sublime-color-scheme",
-		"/C/Users/icivi/AppData/Roaming/Sublime Text/Packages/User/Terminus.sublime-settings"
+		"/C/CASA/LINGUAGGI/HTML/PROGETTI_HTML/REACT_GUIDA_HTML_IT/react-guida-html/tutorial/TUTORIAL_SUBLIMETEXT_DOS_COPY.bat"
 	],
 	"find":
 	{
-		"height": 34.4
+		"height": 31.2
 	},
 	"find_in_files":
 	{
 		"height": 229.0,
 		"where_history":
 		[
+			"*.bat, *.CLS, *.MD",
+			"*.bat",
 			""
 		]
 	},
@@ -380,6 +384,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"CLASSE_clsFileSystem",
+			"_archivi_ACCESS",
+			"c:\\CASA\\LINGUAGGI\\ACCESS\\",
+			"c:\\CASA\\LINGUAGGI\\ACCESS\\PROGETTI_MDB\\MSYS_OGGETTI\\MSYS\\",
+			"c:\\CASA\\LINGUAGGI\\ACCESS\\PROGETTI_MDB\\MSYS_OGGETTI\\MENU\\",
 			"Msys_ESPORTA_IMPORTA_DB_DEST",
 			"@path@completa+file"
 		],
@@ -389,6 +398,8 @@
 		"regex": false,
 		"replace_history":
 		[
+			"_Archivi_Msys_GE_FILE",
+			"c:\\CASA\\LINGUAGGI\\ACCESS\\PROGETTI_MDB\\MSYS\\MSys_GE_FILE\\"
 		],
 		"reverse": false,
 		"scrollbar_highlights": true,
@@ -408,7 +419,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 34.4
+		"height": 31.2
 	},
 	"input":
 	{
@@ -479,7 +490,7 @@
 	"project": "Project_Msys_GE_FILE.sublime-project",
 	"replace":
 	{
-		"height": 65.6
+		"height": 59.2
 	},
 	"save_all_on_build": true,
 	"select_file":
